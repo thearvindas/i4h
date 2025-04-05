@@ -1,0 +1,23 @@
+[
+  {
+    "id": "treatment1",
+    "title": "Pelvic Floor Physical Therapy",
+    "category": "physical-therapy",
+    "description": "A specialized form of physical therapy focusing on the muscles of the pelvic floor to improve function and reduce pain.",
+    "link": "/treatment/physical-therapy"
+  },
+  {
+    "id": "treatment2",
+    "title": "Cognitive Behavioral Therapy",
+    "category": "psychological",
+    "description": "A form of psychotherapy that helps patients develop coping strategies for managing chronic pain.",
+    "link": "/treatment/cbt"
+  },
+  {
+    "id": "treatment3",
+    "title": "Medication Management",
+    "category": "medical",
+    "description": "Careful use of medications to manage pain and related symptoms under medical supervision.",
+    "link": "/treatment/medication"
+  }
+] 

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rec1",
+    "title": "Understanding Pelvic Pain",
+    "category": "education",
+    "description": "A comprehensive guide to understanding the causes and effects of chronic pelvic pain.",
+    "link": "https://example.com/understanding-pain"
+  },
+  {
+    "id": "rec2",
+    "title": "Daily Pain Management Tips",
+    "category": "lifestyle",
+    "description": "Practical strategies for managing pain in your daily life.",
+    "link": "https://example.com/daily-tips"
+  },
+  {
+    "id": "rec3",
+    "title": "Support Groups Directory",
+    "category": "community",
+    "description": "Find local and online support groups for people experiencing pelvic pain.",
+    "link": "https://example.com/support-groups"
+  }
+] 
